@@ -35,6 +35,7 @@ And a highlight of our Top 10 Customers in the freshly established loyalty progr
 
 Tools Used: 
 - SQL
+- Excel
 - MySQL Workbench
 
 Skills Demonstrated: 
