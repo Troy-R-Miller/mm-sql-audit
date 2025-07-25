@@ -22,9 +22,11 @@ Key Insights:
 The queries returned data useful for both the insurance company and Maven Movies. Durng the audit process, we identified our most loyal customers, while developing a better understanding about which store our customers are most active at. These insights have allowed us to implement a strong customer loyalty program, and develop a campaign to attract more customers to the lesser visited location. 
 
 Our total customer distribution can be seen below: 
+
 <img width="473" height="279" alt="Screenshot 2025-07-25 at 5 04 31 PM" src="https://github.com/user-attachments/assets/544f13d8-e718-4410-9fe4-87c123f94caf" />
 
 And a highlight of our Top 10 Customers in the freshly established loyalty program found here:
+
 <img width="582" height="390" alt="customer_loyalty_analysis" src="https://github.com/user-attachments/assets/e28d4f6d-f76a-4f0d-b89b-75f1b0d338f1" />
 
 
