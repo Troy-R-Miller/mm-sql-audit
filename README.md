@@ -27,7 +27,10 @@ Our total customer distribution can be seen below:
 
 And a highlight of our Top 10 Customers in the freshly established loyalty program found here:
 
-<img width="582" height="390" alt="customer_loyalty_analysis" src="https://github.com/user-attachments/assets/e28d4f6d-f76a-4f0d-b89b-75f1b0d338f1" />
+<img width="587" height="386" alt="Screenshot 2025-07-25 at 5 14 42 PM" src="https://github.com/user-attachments/assets/4d8faa4a-5bab-4df1-9632-74f10d238a2a" />
+
+
+
 
 
 
