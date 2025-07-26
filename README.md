@@ -2,11 +2,11 @@
 
 Overview: 
 
-This project contains a series of structured SQL queries used to perform a business audit of the fictional Maven Movies rental database. The company's insurance policy is up for renewal, and new information is required for an updated policy. The audit focuses on staff, inventory, customer activity, replacement costs, and payment processing to provide insights for policy updates. As the Analyst, I was taked with extracting the required information using targeted queries and return the results to the stakeholders. 
+This project contains a series of structured SQL queries used to perform a business audit of the fictional Maven Movies rental database. The company's insurance policy is up for renewal, and new information is required for an updated policy. The audit focuses on staff, inventory, customer activity, replacement costs, and payment processing to provide insights for policy updates. As the Analyst, I was tasked with extracting the required information using targeted queries and return the results to the stakeholders. 
 
 Objectives: 
 
-Extract requested data to support the company's new insurance policy. The following data has been requested for analyis: 
+Extract requested data to support the company's new insurance policy. The following data has been requested for analysis: 
 
 1. Staff information
 2. Inventory distribution
